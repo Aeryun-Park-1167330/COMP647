@@ -1,0 +1,35 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE
+.vscode/
+.idea/
+
+# Auto-generated output files
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# Result files
+*.json
+selected_features
+
+# Operating System
+.DS_Store
+Thumbs.db
